@@ -1,6 +1,6 @@
 # robot-arm-web-controller
 
-the aim of the project is to controll the robot arm by changing the engines values in the controller.
+## the aim of the project is to controll the robot arm by changing the engines values in the controller.
 
 this project done by using : html, css, php, mysql, AJAX.
 
