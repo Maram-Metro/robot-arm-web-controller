@@ -5,7 +5,7 @@ the aim of the project is to controll the robot arm by changing the engines valu
 this project done by using : html, css, php, mysql, AJAX.
 
 the steps i did :
-1. create html page ***robot-arm.html***
+1. create html page ***index.html***
 2. design the html page by adding css ***robot-arm-style.css***
 3. creat database table ***robotarm.sql***
 4. creat the php page that insert the data to the database ***robot-arm-dbc.php***
